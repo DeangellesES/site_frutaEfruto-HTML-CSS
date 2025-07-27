@@ -1,0 +1,19 @@
+.quem-somos {
+    padding: 5rem;
+    text-align: center;
+}
+
+@media screen and (max-width: 768px){
+    .pessoas {
+        display: flex;
+        flex-wrap: wrap;
+    }
+}
+
+@media screen and (min-width: 480px) {
+    .pessoas{
+        margin-right: 50px;
+
+
+    }
+}
